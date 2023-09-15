@@ -1,0 +1,628 @@
+serial,player_name,club,position,balls_recoverd,tackles,t_won,t_lost,clearance_attempted,match_played
+01,Casemiro,Real Madrid,Midfielder,76,31,13,18,19,11
+01,Éder Militão,Real Madrid,Defender,76,19,6,13,32,12
+01,Reinildo,Atlético,Defender,76,13,6,7,20,10
+04,Fabinho,Liverpool,Midfielder,74,23,9,14,8,13
+05,Albiol,Villarreal,Defender,73,9,6,3,62,12
+06,Thiago Silva,Chelsea,Defender,65,9,4,5,17,9
+07,Otamendi,Benfica,Defender,63,28,17,11,48,9
+08,Capoue,Villarreal,Midfielder,62,11,1,10,29,12
+08,Van Dijk,Liverpool,Defender,62,3,2,1,29,9
+10,João Cancelo,Man. City,Defender,56,9,6,3,13,9
+11,Foyth,Villarreal,Defender,55,20,10,10,30,10
+11,Pavard,Bayern,Defender,55,12,7,5,17,10
+13,Konaté,Liverpool,Defender,53,16,11,5,17,8
+13,Martínez,Ajax,Defender,53,10,2,8,19,8
+15,Rodri,Man. City,Midfielder,52,14,10,4,5,10
+15,Estupiñán,Villarreal,Defender,52,8,4,4,31,10
+17,Vertonghen,Benfica,Defender,51,9,6,3,51,10
+17,Laporte,Man. City,Defender,51,5,1,4,17,9
+17,Fernando,Sevilla,Midfielder,51,3,1,2,6,6
+17,Alexander-Arnold,Liverpool,Defender,51,1,0,1,18,9
+21,Carvajal,Real Madrid,Defender,50,12,6,6,30,11
+22,André,LOSC,Midfielder,49,24,12,12,11,7
+22,Alaba,Real Madrid,Defender,49,18,12,6,28,12
+22,L. Hernández,Bayern,Defender,49,9,6,3,15,8
+22,Pau Torres,Villarreal,Defender,49,7,3,4,62,12
+22,De Ligt,Juventus,Defender,49,5,4,1,24,7
+27,Gilberto,Benfica,Defender,48,17,8,9,17,9
+27,Parejo,Villarreal,Midfielder,48,17,8,9,5,12
+27,Koundé,Sevilla,Defender,48,0,0,0,15,5
+30,Fonte,LOSC,Defender,47,13,9,4,29,8
+31,Rüdiger,Chelsea,Defender,46,9,5,4,16,9
+31,Bastoni,Inter,Defender,46,7,2,5,18,8
+31,Upamecano,Bayern,Defender,46,4,1,3,16,8
+34,Rúben Dias,Man. City,Defender,45,11,1,10,16,8
+35,Seiwald,Salzburg,Midfielder,44,18,6,12,9,8
+35,Robertson,Liverpool,Defender,44,4,3,1,14,10
+37,Lauper,Young Boys,Midfielder,43,12,7,5,13,6
+38,Hendry,Club Brugge,Defender,42,6,4,2,18,6
+38,Meunier,Dortmund,Defender,42,3,0,3,9,6
+38,Marquinhos,Paris,Defender,42,2,2,0,36,8
+41,Kimmich,Bayern,Midfielder,41,15,6,9,3,8
+41,Camara,Salzburg,Midfielder,41,14,7,7,4,8
+41,Barrios,Zenit,Midfielder,41,11,7,4,13,6
+41,Christensen,Chelsea,Defender,41,10,6,4,14,8
+41,Nsoki,Club Brugge,Defender,41,7,2,5,27,6
+41,Palomino,Atalanta,Defender,41,6,3,3,14,5
+41,Ulmer,Salzburg,Defender,41,6,2,4,20,8
+41,Diego Carlos,Sevilla,Defender,41,3,1,2,20,6
+49,Souza,Beşiktaş,Midfielder,40,20,12,8,9,5
+49,Thiago Alcántara,Liverpool,Midfielder,40,16,11,5,5,10
+49,Mazraoui,Ajax,Defender,40,16,10,6,9,8
+49,Kondogbia,Atlético,Midfielder,40,15,6,9,7,9
+49,Süle,Bayern,Defender,40,3,1,2,12,7
+54,Fernando Costanza,Sheriff,Defender,39,19,13,6,39,6
+54,Wöber,Salzburg,Defender,39,14,6,8,36,7
+54,Gvardiol,Leipzig,Defender,39,9,5,4,12,6
+54,Modrić,Real Madrid,Midfielder,39,9,3,6,4,13
+54,Tiago Djaló,LOSC,Defender,39,8,6,2,24,7
+54,Guilavogui,Wolfsburg,Midfielder,39,6,1,5,26,5
+54,Akanji,Dortmund,Defender,39,5,2,3,12,5
+61,Brozović,Inter,Midfielder,38,15,6,9,6,8
+61,Škriniar,Inter,Defender,38,11,6,5,26,8
+61,Jorginho,Chelsea,Midfielder,38,7,5,2,2,8
+64,Kroos,Real Madrid,Midfielder,37,11,5,6,4,12
+64,Dodô,Shakhtar Donetsk,Defender,37,10,6,4,8,6
+64,Balanta,Club Brugge,Midfielder,37,10,3,7,9,5
+64,Botman,LOSC,Defender,37,7,5,2,20,5
+64,Marcos Llorente,Atlético,Midfielder,37,6,0,6,8,9
+64,Sydorchuk,Dynamo Kyiv,Midfielder,37,5,3,2,8,6
+70,João Palhinha,Sporting CP,Midfielder,36,29,11,18,6,6
+70,Kristensen,Salzburg,Defender,36,18,8,10,27,8
+70,Hakimi,Paris,Defender,36,7,1,6,11,8
+70,Mendy,Real Madrid,Defender,36,6,5,1,15,10
+70,Bonucci,Juventus,Defender,36,6,2,4,17,7
+70,Solet,Salzburg,Defender,36,1,0,1,18,5
+76,Weigl,Benfica,Midfielder,35,23,12,11,12,9
+76,Goretzka,Bayern,Midfielder,35,8,5,3,6,6
+76,J. Timber,Ajax,Midfielder,35,6,2,4,12,8
+76,Witsel,Dortmund,Midfielder,35,5,2,3,5,6
+76,Giménez,Atlético,Defender,35,4,2,2,23,7
+76,Lacroix,Wolfsburg,Defender,35,1,1,0,30,6
+82,Grimaldo,Benfica,Defender,34,15,6,9,24,10
+82,Savić,Atlético,Defender,34,6,5,1,17,5
+82,Tolói,Atalanta,Defender,34,6,5,1,6,4
+82,Matip,Liverpool,Defender,34,5,1,4,15,7
+82,De Roon,Atalanta,Midfielder,34,4,0,4,15,6
+82,Felipe,Atlético,Defender,34,3,1,2,31,7
+82,Walker,Man. City,Defender,34,3,1,2,11,7
+82,Varane,Man. United,Defender,34,0,0,0,18,5
+90,Shaparenko,Dynamo Kyiv,Midfielder,33,11,4,7,4,6
+90,Piqué,Barcelona,Defender,33,8,1,7,13,5
+90,Aebischer,Young Boys,Midfielder,33,7,2,5,2,6
+90,Onguéné,Salzburg,Defender,33,4,3,1,22,5
+90,Stones,Man. City,Defender,33,1,1,0,8,8
+95,Rakitskyy,Zenit,Defender,32,12,7,5,21,6
+95,Alex Sandro,Juventus,Defender,32,11,4,7,11,7
+95,Blind,Ajax,Defender,32,11,4,7,8,8
+95,Dulanto,Sheriff,Defender,32,11,3,8,39,6
+95,Romagnoli,Milan,Defender,32,10,7,3,18,5
+95,C. Martins Pereira,Young Boys,Midfielder,32,10,2,8,6,5
+95,Ahmedhodžić,Malmö,Defender,32,6,3,3,24,5
+102,Welinton,Beşiktaş,Defender,31,13,4,9,11,4
+102,Bennacer,Milan,Midfielder,31,9,5,4,5,6
+102,Zinchenko,Man. City,Defender,31,6,2,4,8,8
+102,De Vrij,Inter,Defender,31,5,4,1,16,6
+102,Djimsiti,Atalanta,Defender,31,5,4,1,8,5
+102,Mbemba,Porto,Defender,31,4,1,3,19,5
+102,Demiral,Atalanta,Defender,31,3,1,2,21,6
+102,Perišić,Inter,Midfielder,31,1,1,0,13,8
+110,Vidal,Inter,Midfielder,30,19,10,9,9,7
+110,Koke,Atlético,Midfielder,30,11,8,3,7,9
+110,Freuler,Atalanta,Midfielder,30,10,6,4,8,6
+110,Tomori,Milan,Defender,30,10,3,7,22,5
+110,Mukiele,Leipzig,Defender,30,9,3,6,18,6
+110,Lindelöf,Man. United,Defender,30,5,3,2,15,5
+110,Arnold,Wolfsburg,Midfielder,30,5,2,3,8,6
+110,Maguire,Man. United,Defender,30,5,1,4,17,6
+110,Gravenberch,Ajax,Midfielder,30,4,3,1,10,8
+110,Pepe,Porto,Defender,30,4,2,2,17,5
+110,Arboleda,Sheriff,Defender,30,1,0,1,37,6
+121,Álvarez,Ajax,Midfielder,29,19,10,9,7,7
+121,Sergio Busquets,Barcelona,Midfielder,29,19,9,10,3,6
+121,Valverde,Real Madrid,Midfielder,29,13,7,6,10,11
+121,Vinícius Júnior,Real Madrid,Forward,29,11,3,8,0,13
+121,Fred,Man. United,Midfielder,29,10,6,4,2,6
+121,Kanté,Chelsea,Midfielder,29,9,3,6,4,6
+121,Zeki Çelik,LOSC,Defender,29,8,4,4,8,7
+121,Henderson,Liverpool,Midfielder,29,3,1,2,1,12
+129,Capaldo,Salzburg,Midfielder,28,14,5,9,5,7
+129,Wan-Bissaka,Man. United,Defender,28,12,7,5,12,6
+129,Uribe,Porto,Midfielder,28,12,4,8,1,4
+129,Hummels,Dortmund,Defender,28,8,1,7,12,5
+129,McTominay,Man. United,Midfielder,28,7,2,5,4,5
+129,Moumi Ngamaleu,Young Boys,Midfielder,28,6,3,3,5,6
+129,Coates,Sporting CP,Defender,28,6,2,4,29,6
+129,Gonçalo Inácio,Sporting CP,Defender,28,4,3,1,16,7
+129,Hermoso,Atlético,Defender,28,2,1,1,23,6
+138,Addo,Sheriff,Midfielder,27,26,7,19,10,6
+138,Montero,Beşiktaş,Defender,27,12,6,6,11,4
+138,Rabiot,Juventus,Midfielder,27,11,6,5,5,7
+138,Nacho,Real Madrid,Defender,27,10,4,6,14,9
+138,L. Nielsen,Malmö,Defender,27,6,5,1,28,5
+138,Roussillon,Wolfsburg,Defender,27,3,2,1,8,6
+138,Matviyenko,Shakhtar Donetsk,Defender,27,2,1,1,9,4
+138,James,Chelsea,Defender,27,2,1,1,6,6
+146,Kimpembe,Paris,Defender,26,9,4,5,32,7
+146,Zaidu,Porto,Defender,26,7,4,3,14,6
+146,Azpilicueta,Chelsea,Defender,26,6,3,3,9,9
+146,Zabarnyi,Dynamo Kyiv,Defender,26,4,2,2,26,6
+146,Tsimikas,Liverpool,Defender,26,2,1,1,10,5
+151,Luís Neto,Sporting CP,Defender,25,13,7,6,13,6
+151,F. de Jong,Barcelona,Midfielder,25,10,3,7,3,6
+151,Bernardo Silva,Man. City,Midfielder,25,9,4,5,5,11
+151,Antony,Ajax,Forward,25,7,3,4,2,7
+151,De Paul,Atlético,Midfielder,25,6,1,5,9,9
+151,Nuno Mendes,Paris,Defender,25,5,4,1,12,8
+151,Orbán,Leipzig,Defender,25,5,4,1,10,4
+158,Bellingham,Dortmund,Midfielder,24,16,9,7,5,6
+158,Locatelli,Juventus,Midfielder,24,15,7,8,1,7
+158,Danilo,Juventus,Defender,24,9,1,8,21,5
+158,Feddal,Sporting CP,Defender,24,8,3,5,19,6
+158,De Sciglio,Juventus,Defender,24,5,5,0,4,4
+158,Saelemaekers,Milan,Midfielder,24,5,1,4,2,6
+158,Klostermann,Leipzig,Defender,24,4,3,1,17,5
+158,Davies,Bayern,Midfielder,24,4,2,2,4,7
+166,Renan Lodi,Atlético,Defender,23,21,6,15,8,10
+166,Innocent,Malmö,Midfielder,23,14,2,12,5,6
+166,Matheus Reis,Sporting CP,Defender,23,9,6,3,10,8
+166,Douglas Santos,Zenit,Defender,23,8,5,3,20,5
+166,Rosier,Beşiktaş,Defender,23,7,3,4,9,5
+166,Bentancur,Juventus,Midfielder,23,7,3,4,2,5
+166,Vrsaljko,Atlético,Defender,23,6,3,3,8,5
+166,Cuadrado,Juventus,Midfielder,23,6,1,5,9,7
+166,Syrota,Dynamo Kyiv,Defender,23,4,3,1,24,5
+166,Verissimo,Benfica,Defender,23,2,1,1,11,3
+166,Brandt,Dortmund,Midfielder,23,1,0,1,2,5
+166,Sané,Bayern,Midfielder,23,1,0,1,0,10
+166,Calabria,Milan,Defender,23,0,0,0,11,4
+179,Verratti,Paris,Midfielder,22,35,18,17,4,5
+179,Clinton Mata,Club Brugge,Defender,22,8,4,4,14,6
+179,Wendel,Zenit,Midfielder,22,8,4,4,6,6
+179,Camara,Young Boys,Defender,22,7,3,4,11,4
+179,Mykolenko,Dynamo Kyiv,Defender,22,6,2,4,9,5
+179,Simakan,Leipzig,Defender,22,5,2,3,8,4
+179,Matheus Nunes,Sporting CP,Midfielder,22,4,2,2,9,6
+179,Jordi Alba,Barcelona,Defender,22,4,1,3,7,5
+179,Sučić,Salzburg,Midfielder,22,2,2,0,3,8
+179,Vanaken,Club Brugge,Midfielder,22,1,0,1,3,6
+189,Lo Celso,Villarreal,Midfielder,21,12,7,5,3,6
+189,Rafa Silva,Benfica,Forward,21,12,6,6,1,9
+189,Garcia,Young Boys,Defender,21,8,4,4,7,5
+189,Keïta,Liverpool,Midfielder,21,8,2,6,7,10
+189,T. Hernández,Milan,Defender,21,5,2,3,11,5
+189,Mæhle,Atalanta,Defender,21,4,3,1,4,5
+189,Marlon,Shakhtar Donetsk,Defender,21,3,1,2,15,5
+189,Tonali,Milan,Midfielder,21,2,2,0,6,6
+189,João Mário,Porto,Forward,21,1,0,1,6,4
+198,Griezmann,Atlético,Forward,20,14,6,8,5,9
+198,Gavi,Barcelona,Midfielder,20,9,4,5,2,6
+198,Shaw,Man. United,Defender,20,6,4,2,2,5
+198,Mahrez,Man. City,Midfielder,20,6,1,5,3,12
+198,Claudinho,Zenit,Midfielder,20,6,1,5,3,6
+198,Tsygankov,Dynamo Kyiv,Midfielder,20,5,1,4,6,6
+198,Herrera,Atlético,Midfielder,20,4,1,3,1,4
+205,Camavinga,Real Madrid,Midfielder,19,17,9,8,6,10
+205,Otávio,Porto,Midfielder,19,13,7,6,5,6
+205,Laimer,Leipzig,Midfielder,19,11,2,9,1,6
+205,Hefti,Young Boys,Defender,19,9,4,5,7,6
+205,Ronald Araújo,Barcelona,Defender,19,8,6,2,9,5
+205,Acuña,Sevilla,Defender,19,8,6,2,4,5
+205,Xeka,LOSC,Midfielder,19,8,1,7,4,7
+205,Chistiakov,Zenit,Defender,19,6,4,2,18,5
+205,Bamba,LOSC,Forward,19,5,1,4,7,6
+205,Aké,Man. City,Defender,19,3,3,0,19,6
+205,Pedro Porro,Sporting CP,Defender,19,2,1,1,8,7
+205,Lovren,Zenit,Defender,19,1,1,0,19,4
+205,Ismaily,Shakhtar Donetsk,Defender,19,1,1,0,13,5
+218,Cristiano,Sheriff,Defender,18,8,3,5,18,6
+218,Müller,Bayern,Forward,18,8,3,5,2,10
+218,Paredes,Paris,Midfielder,18,8,1,7,1,5
+218,João Mário,Benfica,Midfielder,18,6,2,4,2,8
+218,Jordán,Sevilla,Midfielder,18,6,2,4,2,6
+218,Pedraza,Villarreal,Midfielder,18,4,1,3,9,10
+218,Brooks,Wolfsburg,Defender,18,3,2,1,23,4
+218,Maycon,Shakhtar Donetsk,Midfielder,18,2,1,1,3,6
+226,Bruno Fernandes,Man. United,Midfielder,17,13,6,7,7,7
+226,Fernandinho,Man. City,Midfielder,17,9,4,5,1,8
+226,Onana,LOSC,Midfielder,17,7,6,1,3,8
+226,Mbabu,Wolfsburg,Defender,17,7,5,2,16,6
+226,Ricardo Esgaio,Sporting CP,Defender,17,7,3,4,5,8
+226,Lenglet,Barcelona,Defender,17,6,2,4,2,4
+226,Traore,Sheriff,Midfielder,17,5,0,5,8,6
+226,Brorsson,Malmö,Defender,17,4,3,1,22,5
+226,Mount,Chelsea,Midfielder,17,4,1,3,0,7
+226,Aaronson,Salzburg,Midfielder,17,4,0,4,3,8
+226,Vranckx,Wolfsburg,Midfielder,17,4,0,4,3,4
+226,Alonso,Chelsea,Defender,17,3,1,2,4,8
+226,Musiala,Bayern,Midfielder,17,2,1,1,1,8
+226,Firmino,Liverpool,Midfielder,17,2,1,1,1,7
+226,Oxlade-Chamberlain,Liverpool,Midfielder,17,1,1,0,4,6
+241,Kovačić,Chelsea,Midfielder,16,12,5,7,1,6
+241,Grujić,Porto,Midfielder,16,8,3,5,4,6
+241,Luis Díaz,Liverpool,Forward,16,8,3,5,2,13
+241,Lang,Club Brugge,Forward,16,7,3,4,3,6
+241,Moisander,Malmö,Defender,16,4,3,1,1,3
+241,Kjær,Milan,Defender,16,4,2,2,18,3
+241,Nianzou,Bayern,Midfielder,16,4,2,2,1,4
+241,Pjanic,Beşiktaş,Midfielder,16,2,1,1,2,3
+241,Vida,Beşiktaş,Defender,16,1,1,0,2,2
+250,Kampl,Leipzig,Midfielder,15,8,4,4,2,3
+250,André Almeida,Benfica,Defender,15,6,2,4,8,5
+250,McKennie,Juventus,Midfielder,15,5,0,5,3,6
+250,Danilo,Paris,Midfielder,15,4,2,2,10,7
+250,Nkunku,Leipzig,Midfielder,15,4,1,3,2,6
+250,Kessié,Milan,Midfielder,15,4,0,4,5,5
+250,Paulo Otávio,Wolfsburg,Defender,15,3,2,1,7,4
+250,Tolisso,Bayern,Midfielder,15,3,2,1,2,4
+250,Berget,Malmö,Midfielder,15,3,1,2,16,5
+250,Rugani,Juventus,Defender,15,2,1,1,4,4
+250,Bornauw,Wolfsburg,Defender,15,1,1,0,10,3
+250,Diallo,Paris,Defender,15,1,0,1,10,2
+250,Reus,Dortmund,Midfielder,15,1,0,1,7,6
+250,Jesús Navas,Sevilla,Defender,15,0,0,0,5,4
+264,S. Thill,Sheriff,Midfielder,14,12,6,6,16,6
+264,Gueye,Paris,Midfielder,14,12,5,7,5,7
+264,Pino,Villarreal,Forward,14,10,4,6,0,7
+264,Haidara,Leipzig,Midfielder,14,8,5,3,1,4
+264,Rieder,Young Boys,Midfielder,14,8,4,4,3,6
+264,Hakan Çalhanoğlu,Inter,Midfielder,14,8,2,6,2,6
+264,N'Sakala,Beşiktaş,Defender,14,7,3,4,5,3
+264,Sérgio Oliveira,Porto,Midfielder,14,7,2,5,6,6
+264,Berghuis,Ajax,Forward,14,6,2,4,3,8
+264,Rits,Club Brugge,Midfielder,14,5,3,2,2,6
+264,Sobol,Club Brugge,Defender,14,4,3,1,11,4
+264,Lemar,Atlético,Midfielder,14,4,3,1,4,8
+264,Angeliño,Leipzig,Defender,14,3,2,1,5,5
+264,Arthur,Juventus,Midfielder,14,3,2,1,1,6
+264,Eric García,Barcelona,Defender,14,3,1,2,4,4
+264,Rodrygo,Real Madrid,Forward,14,2,1,1,3,11
+264,Gnabry,Bayern,Forward,14,2,1,1,0,8
+264,Coman,Bayern,Forward,14,2,0,2,4,9
+264,Mehmet Topal,Beşiktaş,Midfielder,14,1,1,0,3,3
+264,Gomez,Liverpool,Defender,14,0,0,0,5,7
+264,Gonçalo Ramos,Benfica,Forward,14,0,0,0,2,7
+285,Martínez,Inter,Forward,13,11,4,7,0,8
+285,Barella,Inter,Midfielder,13,10,3,7,2,6
+285,Coquelin,Villarreal,Midfielder,13,9,3,6,6,8
+285,Everton,Benfica,Forward,13,7,5,2,2,9
+285,Diogo Jota,Liverpool,Forward,13,7,2,5,1,11
+285,Gündoğan,Man. City,Midfielder,13,6,0,6,2,10
+285,Schuurs,Ajax,Defender,13,5,2,3,2,3
+285,Taarabt,Benfica,Midfielder,13,4,1,3,1,9
+285,Malcom,Zenit,Forward,13,3,2,1,2,6
+285,Alex Telles,Man. United,Defender,13,3,0,3,4,4
+285,Lucas Vázquez,Real Madrid,Midfielder,13,2,0,2,6,8
+285,Christiansen,Malmö,Midfielder,13,2,0,2,4,4
+285,Matić,Man. United,Midfielder,13,1,1,0,6,8
+285,Larsson,Malmö,Defender,13,0,0,0,6,4
+285,Bürgy,Young Boys,Defender,13,0,0,0,5,2
+300,Peña,Malmö,Midfielder,12,11,4,7,2,5
+300,Herrera,Paris,Midfielder,12,9,6,3,5,6
+300,Kędziora,Dynamo Kyiv,Defender,12,8,4,4,8,5
+300,Montiel,Sevilla,Defender,12,8,3,5,1,4
+300,Di María,Paris,Forward,12,6,4,2,2,5
+300,Nico González,Barcelona,Midfielder,12,6,3,3,1,4
+300,Correa,Atlético,Forward,12,5,3,2,0,10
+300,Vitinha,Porto,Midfielder,12,4,0,4,1,6
+300,Renato Sanches,LOSC,Midfielder,12,3,1,2,6,5
+300,Paulinho,Sporting CP,Forward,12,3,0,3,4,8
+300,Dimarco,Inter,Defender,12,2,2,0,7,7
+300,Taremi,Porto,Forward,12,2,0,2,7,6
+300,Tadić,Ajax,Forward,12,2,0,2,1,7
+300,Forsberg,Leipzig,Forward,12,2,0,2,1,6
+300,Meraş,Beşiktaş,Defender,12,1,0,1,8,3
+300,Ricca,Club Brugge,Defender,12,0,0,0,11,4
+300,Salah,Liverpool,Forward,12,0,0,0,0,13
+317,Van de Beek,Man. United,Midfielder,11,8,3,5,3,4
+317,Castañeda,Sheriff,Midfielder,11,8,1,7,3,5
+317,Sowah,Club Brugge,Forward,11,7,1,6,4,5
+317,De Bruyne,Man. City,Midfielder,11,6,0,6,2,10
+317,Van Der Brempt,Club Brugge,Defender,11,5,3,2,2,5
+317,Ziyech,Chelsea,Midfielder,11,5,2,3,1,9
+317,Rakitić,Sevilla,Midfielder,11,5,1,4,1,5
+317,Loftus-Cheek,Chelsea,Forward,11,4,2,2,2,8
+317,Salih Uçan,Beşiktaş,Midfielder,11,4,2,2,0,5
+317,Dest,Barcelona,Defender,11,3,3,0,0,4
+317,Krunić,Milan,Midfielder,11,3,2,1,1,4
+317,Neymar,Paris,Forward,11,3,1,2,0,6
+317,Bailly,Man. United,Defender,11,2,1,1,11,2
+317,Mingueza,Barcelona,Defender,11,2,1,1,0,5
+317,Grealish,Man. City,Midfielder,11,2,0,2,0,7
+317,David,LOSC,Forward,11,1,1,0,1,8
+317,Pessina,Atalanta,Midfielder,11,1,1,0,1,4
+317,Dahoud,Dortmund,Midfielder,11,1,0,1,0,4
+317,Baku,Wolfsburg,Midfielder,11,0,0,0,8,6
+317,Morata,Juventus,Forward,11,0,0,0,7,7
+337,Garmash,Dynamo Kyiv,Midfielder,10,9,2,7,1,6
+337,Haller,Ajax,Forward,10,8,2,6,5,8
+337,N. Williams,Liverpool,Defender,10,6,2,4,1,3
+337,Dumfries,Inter,Defender,10,6,1,5,4,7
+337,Kalulu,Milan,Defender,10,5,3,2,1,5
+337,Foden,Man. City,Midfielder,10,5,1,4,0,11
+337,Pedro Gonçalves,Sporting CP,Midfielder,10,4,3,1,1,5
+337,Tagliafico,Ajax,Defender,10,4,3,1,1,3
+337,Núñez,Benfica,Forward,10,4,2,2,7,10
+337,Zappacosta,Atalanta,Defender,10,4,0,4,3,6
+337,Weghorst,Wolfsburg,Forward,10,3,2,1,3,5
+337,Klaassen,Ajax,Midfielder,10,3,1,2,2,7
+337,Bruno,Sheriff,Midfielder,10,2,2,0,6,6
+337,Gudmundsson,LOSC,Defender,10,2,2,0,4,4
+337,Morato,Benfica,Defender,10,2,1,1,5,2
+337,De Pena,Dynamo Kyiv,Midfielder,10,2,1,1,3,6
+337,Bernardeschi,Juventus,Midfielder,10,2,1,1,2,5
+337,Alan Patrick,Shakhtar Donetsk,Midfielder,10,2,0,2,1,4
+337,Schulz,Dortmund,Defender,10,2,0,2,0,4
+337,Sierro,Young Boys,Midfielder,10,1,0,1,7,5
+337,Kuzyaev,Zenit,Midfielder,10,1,0,1,5,4
+337,Mbappé,Paris,Forward,10,1,0,1,2,8
+337,Tymchyk,Dynamo Kyiv,Defender,10,1,0,1,1,4
+337,Elia,Young Boys,Forward,10,1,0,1,0,6
+337,Kolovos,Sheriff,Midfielder,10,1,0,1,0,6
+337,Rıdvan Yılmaz,Beşiktaş,Defender,10,0,0,0,3,2
+337,Sancho,Man. United,Midfielder,10,0,0,0,2,7
+364,Richards,Bayern,Defender,9,8,2,6,1,4
+364,Sarabia,Sporting CP,Forward,9,6,3,3,1,8
+364,Morton,Liverpool,Midfielder,9,5,4,1,2,2
+364,Pogba,Man. United,Midfielder,9,5,3,2,4,6
+364,Delaney,Sevilla,Midfielder,9,4,2,2,3,4
+364,Mané,Liverpool,Midfielder,9,4,1,3,1,13
+364,Corona,Porto,Forward,9,4,0,4,5,4
+364,Aurier,Villarreal,Defender,9,3,1,2,5,5
+364,Pongračić,Dortmund,Defender,9,2,2,0,2,5
+364,Karavaev,Zenit,Defender,9,2,1,1,5,4
+364,Dalot,Man. United,Defender,9,2,0,2,10,3
+364,Gerard Moreno,Villarreal,Forward,9,2,0,2,5,7
+364,Sarr,Chelsea,Defender,9,1,1,0,7,2
+364,Ocampos,Sevilla,Midfielder,9,1,0,1,2,6
+364,De Ketelaere,Club Brugge,Forward,9,1,0,1,1,6
+364,Kryvtsov,Shakhtar Donetsk,Defender,9,0,0,0,11,3
+364,Serdar Saatçı,Beşiktaş,Defender,9,0,0,0,6,1
+364,Meite,Benfica,Midfielder,9,0,0,0,3,3
+364,Fassnacht,Young Boys,Midfielder,9,0,0,0,2,3
+364,Bondar,Shakhtar Donetsk,Defender,9,0,0,0,2,1
+364,Ikoné,LOSC,Midfielder,9,0,0,0,1,5
+385,Adams,Leipzig,Midfielder,8,8,5,3,2,5
+385,Ghezzal,Beşiktaş,Midfielder,8,7,1,6,0,5
+385,Birmančević,Malmö,Midfielder,8,6,3,3,2,6
+385,Trigueros,Villarreal,Midfielder,8,6,1,5,4,9
+385,Lefort,Young Boys,Defender,8,5,5,0,8,3
+385,Rensch,Ajax,Defender,8,5,2,3,1,5
+385,Buyalskiy,Dynamo Kyiv,Midfielder,8,5,2,3,1,5
+385,Saúl Ñíguez,Chelsea,Midfielder,8,4,4,0,5,5
+385,Stepanenko,Shakhtar Donetsk,Midfielder,8,4,1,3,3,4
+385,Marcos Antônio,Shakhtar Donetsk,Midfielder,8,4,1,3,1,5
+385,Adeyemi,Salzburg,Forward,8,4,1,3,0,8
+385,Moreno,Villarreal,Defender,8,4,0,4,6,7
+385,André Silva,Leipzig,Forward,8,3,0,3,1,6
+385,Pedri,Barcelona,Midfielder,8,2,0,2,0,2
+385,M. Olsson,Malmö,Defender,8,1,0,1,17,6
+385,Carrasco,Atlético,Forward,8,1,0,1,8,7
+385,Guerreiro,Dortmund,Defender,8,1,0,1,2,3
+385,Gómez,Sevilla,Forward,8,1,0,1,1,5
+385,Werner,Chelsea,Forward,8,0,0,0,0,5
+404,Ugarte,Sporting CP,Midfielder,7,7,3,4,1,4
+404,Larin,Beşiktaş,Forward,7,7,2,5,4,5
+404,Lamela,Sevilla,Midfielder,7,6,2,4,1,4
+404,L. Nmecha,Wolfsburg,Forward,7,5,2,3,3,5
+404,Koopmeiners,Atalanta,Midfielder,7,4,1,3,3,5
+404,Lewandowski,Bayern,Forward,7,4,0,4,0,10
+404,Trippier,Atlético,Defender,7,3,3,0,1,3
+404,Mudryk,Shakhtar Donetsk,Midfielder,7,3,1,2,3,6
+404,D'Ambrosio,Inter,Defender,7,3,1,2,0,3
+404,Havertz,Chelsea,Midfielder,7,3,0,3,6,9
+404,Azmoun,Zenit,Forward,7,3,0,3,4,5
+404,Sterling,Man. City,Forward,7,3,0,3,0,12
+404,Kenan Karaman,Beşiktaş,Forward,7,2,2,0,1,5
+404,Daniel Bragança,Sporting CP,Midfielder,7,2,2,0,0,5
+404,Alex Teixeira,Beşiktaş,Midfielder,7,2,2,0,0,3
+404,Messi,Paris,Forward,7,2,1,1,1,7
+404,Ballo,Milan,Defender,7,2,1,1,1,2
+404,Dybala,Juventus,Forward,7,2,1,1,0,5
+404,Hudson-Odoi,Chelsea,Midfielder,7,2,0,2,0,5
+404,Pašalić,Atalanta,Midfielder,7,1,1,0,2,5
+404,Chalobah,Chelsea,Defender,7,1,0,1,4,3
+404,Sabitzer,Bayern,Midfielder,7,1,0,1,0,5
+404,Zagadou,Dortmund,Defender,7,0,0,0,3,2
+404,Krugovoi,Zenit,Defender,7,0,0,0,0,6
+428,Adamu,Salzburg,Forward,6,8,2,6,0,8
+428,Rafael Leão,Milan,Forward,6,5,1,4,3,4
+428,Steffen,Wolfsburg,Midfielder,6,3,2,1,6,5
+428,Jesus,Man. City,Forward,6,3,2,1,1,8
+428,Brahim Díaz,Milan,Midfielder,6,2,2,0,1,5
+428,Diogo Gonçalves,Benfica,Midfielder,6,2,1,1,4,5
+428,Fernando,Shakhtar Donetsk,Midfielder,6,2,0,2,1,5
+428,Minamino,Liverpool,Forward,6,2,0,2,0,4
+428,Reinier,Dortmund,Forward,6,2,0,2,0,3
+428,Benzema,Real Madrid,Forward,6,1,1,0,10,12
+428,Lewicki,Malmö,Midfielder,6,1,1,0,2,2
+428,Marc Roca,Bayern,Defender,6,1,0,1,1,4
+428,Tetê,Shakhtar Donetsk,Forward,6,1,0,1,0,6
+428,Andriyevskiy,Dynamo Kyiv,Midfielder,6,1,0,1,0,2
+428,Marcano,Porto,Defender,6,0,0,0,14,2
+428,Džeko,Inter,Forward,6,0,0,0,5,7
+428,Šeško,Salzburg,Forward,6,0,0,0,1,6
+428,Jones,Liverpool,Midfielder,6,0,0,0,1,4
+428,Malen,Dortmund,Forward,6,0,0,0,0,6
+428,Solomon,Shakhtar Donetsk,Midfielder,6,0,0,0,0,5
+448,Milner,Liverpool,Midfielder,5,6,3,3,6,8
+448,João Félix,Atlético,Forward,5,6,1,5,7,8
+448,Necip Uysal,Beşiktaş,Midfielder,5,4,2,2,3,3
+448,Wijnaldum,Paris,Midfielder,5,4,0,4,1,5
+448,Moi Gómez,Villarreal,Midfielder,5,3,2,1,4,6
+448,Lukebakio,Wolfsburg,Forward,5,3,2,1,0,6
+448,Ronaldo,Man. United,Forward,5,3,1,2,6,7
+448,Gerhardt,Wolfsburg,Midfielder,5,2,2,0,0,5
+448,Nikolov,Sheriff,Midfielder,5,2,2,0,0,5
+448,Gosens,Atalanta,Midfielder,5,2,1,1,2,2
+448,Draxler,Paris,Forward,5,2,1,1,1,3
+448,Shepeliev,Dynamo Kyiv,Midfielder,5,2,1,1,0,2
+448,Gomes,LOSC,Midfielder,5,2,0,2,1,4
+448,Augustinsson,Sevilla,Defender,5,2,0,2,0,3
+448,Weah,LOSC,Forward,5,1,1,0,3,5
+448,Phillips,Liverpool,Defender,5,1,1,0,3,2
+448,Hutchinson,Beşiktaş,Midfielder,5,1,1,0,0,4
+448,De Winter,Juventus,Defender,5,1,1,0,0,2
+448,Mechele,Club Brugge,Defender,5,1,0,1,5,3
+448,Sutormin,Zenit,Midfielder,5,1,0,1,3,4
+448,Chukwueze,Villarreal,Midfielder,5,1,0,1,2,9
+448,Siebatcheu,Young Boys,Forward,5,1,0,1,2,6
+448,Kehrer,Paris,Defender,5,1,0,1,2,4
+448,Chilwell,Chelsea,Defender,5,1,0,1,1,4
+448,Origi,Liverpool,Forward,5,1,0,1,0,7
+448,Rekik,Sevilla,Defender,5,1,0,1,0,4
+448,Haaland,Dortmund,Forward,5,0,0,0,4,3
+448,Lovato,Atalanta,Defender,5,0,0,0,3,1
+448,Nalić,Malmö,Midfielder,5,0,0,0,1,5
+448,Yansané,Sheriff,Forward,5,0,0,0,1,3
+448,Ranocchia,Inter,Defender,5,0,0,0,1,3
+479,Rakip,Malmö,Midfielder,4,6,3,3,1,6
+479,Evanilson,Porto,Forward,4,6,2,4,3,4
+479,Malinovskyi,Atalanta,Midfielder,4,6,2,4,2,5
+479,Wendell,Porto,Defender,4,6,2,4,2,4
+479,Alexis Sánchez,Inter,Forward,4,6,2,4,0,6
+479,Rieks,Malmö,Midfielder,4,4,2,2,8,3
+479,Maceiras,Young Boys,Defender,4,2,2,0,1,3
+479,Lázaro,Benfica,Midfielder,4,2,1,1,4,6
+479,Giroud,Milan,Forward,4,2,1,1,3,5
+479,Sergi Roberto,Barcelona,Midfielder,4,2,1,1,3,3
+479,Verbič,Dynamo Kyiv,Midfielder,4,2,1,1,0,3
+479,Čolak,Malmö,Forward,4,2,0,2,2,6
+479,Batshuayi,Beşiktaş,Forward,4,2,0,2,2,5
+479,T. Hazard,Dortmund,Midfielder,4,2,0,2,1,3
+479,Pedrinho,Shakhtar Donetsk,Midfielder,4,2,0,2,0,4
+479,Marlos,Shakhtar Donetsk,Midfielder,4,1,1,0,1,6
+479,Bozdoğan,Beşiktaş,Midfielder,4,1,1,0,0,4
+479,Mata,Man. United,Midfielder,4,1,1,0,0,3
+479,Dzyuba,Zenit,Forward,4,1,0,1,8,6
+479,Karavaev,Dynamo Kyiv,Defender,4,1,0,1,4,6
+479,Chiesa,Juventus,Forward,4,1,0,1,1,4
+479,Mostovoy,Zenit,Midfielder,4,1,0,1,0,5
+479,Suso,Sevilla,Forward,4,1,0,1,0,4
+479,Florenzi,Milan,Defender,4,0,0,0,6,4
+479,Marcelo,Real Madrid,Defender,4,0,0,0,3,3
+479,Szoboszlai,Leipzig,Midfielder,4,0,0,0,2,4
+479,Óliver Torres,Sevilla,Midfielder,4,0,0,0,0,4
+479,Diallo,Man. United,Midfielder,4,0,0,0,0,1
+507,Wolf,Dortmund,Midfielder,3,5,0,5,3,5
+507,Bruno Tabata,Sporting CP,Midfielder,3,5,0,5,2,4
+507,Okafor,Salzburg,Midfielder,3,5,0,5,0,6
+507,Vormer,Club Brugge,Midfielder,3,4,2,2,1,4
+507,Yakhshiboev,Sheriff,Forward,3,4,0,4,1,3
+507,Pulišić,Chelsea,Midfielder,3,3,1,2,0,7
+507,Poulsen,Leipzig,Forward,3,3,0,3,4,4
+507,Erokhin,Zenit,Midfielder,3,3,0,3,1,6
+507,Lustenberger,Young Boys,Defender,3,2,2,0,4,1
+507,Dia,Villarreal,Forward,3,2,2,0,3,8
+507,Darmian,Inter,Defender,3,2,1,1,2,5
+507,Maldini,Milan,Forward,3,2,1,1,0,3
+507,Radeljić,Sheriff,Defender,3,1,1,0,4,3
+507,Henrichs,Leipzig,Defender,3,1,1,0,3,4
+507,Sarr,Bayern,Defender,3,1,1,0,1,5
+507,Rashford,Man. United,Forward,3,1,1,0,0,5
+507,Messias Junior,Milan,Forward,3,1,1,0,0,2
+507,Flávio Nazinho,Sporting CP,Defender,3,1,1,0,0,2
+507,Vitão,Shakhtar Donetsk,Defender,3,1,0,1,10,1
+507,Danjuma,Villarreal,Midfielder,3,1,0,1,5,11
+507,Asensio,Real Madrid,Forward,3,1,0,1,1,8
+507,Korniienko,Shakhtar Donetsk,Defender,3,1,0,1,1,2
+507,Egan-Riley,Man. City,Defender,3,1,0,1,1,1
+507,Mbamba-Muanda,Club Brugge,Defender,3,1,0,1,0,3
+507,Bakayoko,Milan,Defender,3,1,0,1,0,3
+507,Fábio Cardoso,Porto,Defender,3,0,0,0,9,2
+507,Passlack,Dortmund,Midfielder,3,0,0,0,6,2
+507,Rafa Mir,Sevilla,Forward,3,0,0,0,3,6
+507,Piątkowski,Salzburg,Defender,3,0,0,0,3,2
+507,Vecino,Inter,Midfielder,3,0,0,0,2,4
+507,Greenwood,Man. United,Forward,3,0,0,0,1,4
+507,Gökhan Töre,Beşiktaş,Midfielder,3,0,0,0,1,4
+507,Elanga,Man. United,Forward,3,0,0,0,1,3
+507,Neres,Ajax,Forward,3,0,0,0,0,5
+507,Vitinho,Dynamo Kyiv,Midfielder,3,0,0,0,0,3
+507,Barkley,Chelsea,Midfielder,3,0,0,0,0,3
+543,Yaremchuk,Benfica,Forward,2,5,2,3,2,10
+543,Tiago Tomás,Sporting CP,Forward,2,5,1,4,0,5
+543,Depay,Barcelona,Forward,2,4,2,2,0,6
+543,Iličić,Atalanta,Midfielder,2,4,1,3,0,4
+543,Gagliardini,Inter,Midfielder,2,3,2,1,2,5
+543,Abubakari,Malmö,Forward,2,2,2,0,2,4
+543,Zapata,Atalanta,Forward,2,2,1,1,3,6
+543,Ceballos,Real Madrid,Midfielder,2,2,1,1,1,5
+543,Peña,Villarreal,Defender,2,2,1,1,1,2
+543,Tijani,Salzburg,Midfielder,2,2,1,1,0,1
+543,Matheus Cunha,Atlético,Forward,2,2,0,2,1,5
+543,Bondarenko,Shakhtar Donetsk,Midfielder,2,2,0,2,0,2
+543,Brobbey,Leipzig,Forward,2,1,1,0,1,5
+543,Kulusevski,Juventus,Midfielder,2,1,1,0,1,5
+543,N'Koudou,Beşiktaş,Midfielder,2,1,1,0,1,1
+543,Lukaku,Chelsea,Forward,2,1,1,0,0,6
+543,Fati,Barcelona,Forward,2,1,1,0,0,3
+543,Al. Miranchuk,Atalanta,Forward,2,1,1,0,0,2
+543,Burak Yılmaz,LOSC,Forward,2,1,0,1,1,7
+543,Esteves,Sporting CP,Defender,2,1,0,1,1,1
+543,Dembélé,Barcelona,Forward,2,1,0,1,0,3
+543,Fábio Vieira,Porto,Midfielder,2,1,0,1,0,2
+543,Óscar Rodríguez,Sevilla,Midfielder,2,1,0,1,0,1
+543,Shabanov,Dynamo Kyiv,Defender,2,0,0,0,5,1
+543,Pezzella,Atalanta,Defender,2,0,0,0,3,3
+543,Vallejo,Real Madrid,Defender,2,0,0,0,2,2
+543,Kean,Juventus,Forward,2,0,0,0,1,6
+543,Bernardo,Salzburg,Defender,2,0,0,0,1,2
+543,Palmer,Man. City,Midfielder,2,0,0,0,0,3
+543,Jovane Cabral,Sporting CP,Forward,2,0,0,0,0,3
+543,Alcácer,Villarreal,Forward,2,0,0,0,0,3
+543,Sudakov,Shakhtar Donetsk,Midfielder,2,0,0,0,0,2
+543,Emre Can,Dortmund,Defender,2,0,0,0,0,2
+543,Iborra,Villarreal,Midfielder,2,0,0,0,0,1
+543,Ozdoev,Zenit,Midfielder,2,0,0,0,0,1
+578,Knauff,Dortmund,Midfielder,1,4,2,2,0,3
+578,Moriba,Leipzig,Midfielder,1,4,2,2,0,3
+578,Supryaha,Dynamo Kyiv,Forward,1,3,1,2,0,2
+578,Rebić,Milan,Forward,1,2,0,2,4,2
+578,Hateboer,Atalanta,Defender,1,2,0,2,2,1
+578,Mambimbi,Young Boys,Forward,1,2,0,2,1,4
+578,Mengi,Man. United,Defender,1,1,1,0,4,1
+578,Bonnah,Leipzig,Midfielder,1,1,1,0,2,1
+578,Philipp,Wolfsburg,Forward,1,1,1,0,0,2
+578,Guindo,Salzburg,Defender,1,1,1,0,0,1
+578,McAtee,Man. City,Midfielder,1,1,1,0,0,1
+578,Shkurin,Dynamo Kyiv,Forward,1,1,0,1,2,2
+578,Waldschmidt,Wolfsburg,Forward,1,1,0,1,1,3
+578,Cojocaru,Sheriff,Midfielder,1,1,0,1,1,2
+578,Bradarić,LOSC,Defender,1,1,0,1,1,1
+578,Toni Martínez,Porto,Forward,1,1,0,1,0,6
+578,Kjærgaard,Salzburg,Midfielder,1,1,0,1,0,4
+578,Munir,Sevilla,Forward,1,1,0,1,0,4
+578,Taylor,Ajax,Midfielder,1,1,0,1,0,3
+578,Oğuzhan Özyakup,Beşiktaş,Midfielder,1,1,0,1,0,2
+578,Miguel Gutiérrez,Real Madrid,Defender,1,1,0,1,0,1
+578,Ricard Puig,Barcelona,Midfielder,1,1,0,1,0,1
+578,Paulo Bernardo,Benfica,Midfielder,1,0,0,0,3,5
+578,Luis Suárez,Atlético,Forward,1,0,0,0,2,7
+578,Lingard,Man. United,Midfielder,1,0,0,0,2,4
+578,Mario Gaspar,Villarreal,Defender,1,0,0,0,2,2
+578,Daramy,Ajax,Forward,1,0,0,0,1,2
+578,Yusuf Yazıcı,LOSC,Midfielder,1,0,0,0,0,4
+578,Coutinho,Barcelona,Forward,1,0,0,0,0,4
+578,Pepê,Porto,Forward,1,0,0,0,0,3
+578,Demir,Barcelona,Midfielder,1,0,0,0,0,3
+578,Julien,Sheriff,Defender,1,0,0,0,0,3
+578,Jović,Real Madrid,Forward,1,0,0,0,0,3
+578,L. de Jong,Barcelona,Forward,1,0,0,0,0,3
+578,E. Hazard,Real Madrid,Forward,1,0,0,0,0,3
+578,Kravtsov,Zenit,Midfielder,1,0,0,0,0,2
+578,Kudus,Ajax,Midfielder,1,0,0,0,0,2
+578,F. Nmecha,Wolfsburg,Midfielder,1,0,0,0,0,2
+578,Olmo,Leipzig,Forward,1,0,0,0,0,2
+578,Dário Essugo,Sporting CP,Midfielder,1,0,0,0,0,1
+578,Kuznetsov,Zenit,Forward,1,0,0,0,0,1
+578,Miretti,Juventus,Midfielder,1,0,0,0,0,1
+578,Moukoko,Dortmund,Forward,1,0,0,0,0,1
+578,Delap,Man. City,Forward,1,0,0,0,0,1
+578,Shoretire,Man. United,Midfielder,1,0,0,0,0,1
+578,Maier,Young Boys,Midfielder,1,0,0,0,0,1
+578,Zhegrova,LOSC,Midfielder,1,0,0,0,0,1
+578,Zesiger,Young Boys,Defender,1,0,0,0,0,1
+578,Zakaria,Juventus,Midfielder,1,0,0,0,0,1
+578,Edwards,Sporting CP,Forward,1,0,0,0,0,1
